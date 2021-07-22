@@ -1,0 +1,16 @@
+.color1 {
+    background-color: black;
+    background-color: {{ "color1" }};
+}
+
+.color2 {
+    background-color: yellowgreen;
+    background-color: {{ "color2" }};
+}
+
+table tr td {
+    width: 40px;
+    height: 40px;
+}
+
+
